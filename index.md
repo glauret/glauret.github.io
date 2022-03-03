@@ -21,7 +21,7 @@ Later on, I completed the Google Data Analytics Professional Certificate in whic
 
 **_Tools used: Python (Numpy, Panda, OpenCV, Mediapipe, TensorFlow), Google Drive, Streamlit_**
 
-<img src="assets/img/Image_2?raw=true"/>
+<img src="assets/img/Image_2.png?raw=true"/>
 
 With 3 of my teammates from Le Wagon Bootcamp we built in 2 weeks a sign language module which recognizes through a webcam the different letters of the alphabet:
 - Based on the American Sign Language
@@ -39,6 +39,8 @@ And if you want to see our [live presentation](https://www.youtube.com/embed/iL4
 [Github project link](https://github.com/glauret/project_cyclistic).
 
 **_Tools used: R (Tidyverse, Geosphere), Tableau_**
+
+<img src="assets/img/project_cyclicist.png?raw=true"/>
 
 ### Context
 Data Analysis Case Study for Google Data Analytics Certification - Cyclistic. Preparing a data analysis for a fictional bike-share company in order to help them attract more riders.
