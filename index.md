@@ -20,12 +20,24 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 ## Sign Language Detection Project - Deep Learning
 [Github project link](https://github.com/glauret/Sign_language_detection).
 
-**Tools used: Python (Numpy, Panda, OpenCV, Mediapipe, TensorFlow), Google Drive, Streamlit **
+**Tools used: Python (Numpy, Panda, OpenCV, Mediapipe, TensorFlow), Google Drive, Streamlit**
+
+![Branching](/assets/img/Image_2)
+
+With three of my Bootcamp (Le Wagon) teammates build in 2 weeks a sign language module which recognizes and displays on a screen the different letters of the alphabet:
+- Based on the American Sign Language
+- A Sign Language Translator using computer vision and image segmentation
+- Dataset: more than 8000 pictures of hands position both homemade and from online dataset
+- Type of neural network: Convolutional Neural Network with transfer learning from Resnet50 V2
+
+[Here is the link to our online app] (https://share.streamlit.io/glauret/sld)
+
+And if you want to see our [live presentation] (https://share.streamlit.io/glauret/sld) (only in French)
 
 ## Cyclicist Project - Data Analytics
 [Github project link](https://github.com/glauret/project_cyclistic).
 
-**Tools used: R (Tidyverse, Geosphere), Tableau **
+**Tools used: R (Tidyverse, Geosphere), Tableau**
 
 > This is a blockquote following a header.
 >
