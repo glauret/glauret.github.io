@@ -20,8 +20,13 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 ## Sign Language Detection Project - Deep Learning
 [Github project link](https://github.com/glauret/Sign_language_detection).
 
+**Tools used: Python (Numpy, Panda, OpenCV, Mediapipe, TensorFlow), Google Drive, Streamlit **
+
 ## Cyclicist Project - Data Analytics
 [Github project link](https://github.com/glauret/project_cyclistic).
+
+**Tools used: R (Tidyverse, Geosphere), Tableau **
+
 > This is a blockquote following a header.
 >
 > When something is important enough, you do it even if the odds are not in your favor.
