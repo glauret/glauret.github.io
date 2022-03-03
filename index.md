@@ -13,7 +13,7 @@ In early 2021, I decided to explore and work in data, so I learned coding in **S
 
 Later on, I completed the Google Data Analytics Professional Certificate and worked on a project using **SQL**, **R** and **Tableau**.
 
-<embed src="/assets/img/Guillaume_Lauret_Resume.pdf" type="application/pdf">
+![My resume here](/assets/img/Guillaume_Lauret_Resume.jpeg)
 
 # My portfolio
 
@@ -25,12 +25,12 @@ Later on, I completed the Google Data Analytics Professional Certificate and wor
 
 <img src="assets/img/Image_2.png?raw=true"/>
 
-With 3 of my teammates from Le Wagon Bootcamp we built in 2 weeks a sign language module which recognizes through a webcam the different letters of the alphabet:
+With 3 of my teammates from Le Wagon Bootcamp we built in 2 weeks a **sign language module** which recognizes through a webcam and display on the screen the different letters of the alphabet:
 - Based on the American Sign Language.
 - The Sign Language Translator uses computer vision and image segmentation.
-- Our dataset includes more than 8000 pictures of hands position both homemade and from online datasets.
-- We used the Resnet50 V2 Convolutional Neural Network in order to classify the different letters of the alphabet.
-- The  cropped image of the hand from the webcam is the input and the classified letter the ouput.
+- Our dataset includes more than 8000 pictures of hand signs both homemade and from online datasets.
+- We used the Resnet50 V2 Convolutional Neural Network in order to classify the different letters.
+- The cropped image of the hand from the webcam is the input we give to our model and the classified letter the ouput.
 
 [Here is the link to our online app](https://share.streamlit.io/glauret/sld)
 
