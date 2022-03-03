@@ -13,6 +13,8 @@ In early 2021, I decided to explore and work in data, so I learned coding in **S
 
 Later on, I completed the Google Data Analytics Professional Certificate and worked on a project using **SQL**, **R** and **Tableau**.
 
+[My resume available here](https://drive.google.com/file/d/1umom4fc79bjPD2_fCEb2NA4zVnooG5JO/view?usp=sharing)
+
 # My portfolio
 
 ## Sign Language Detection Project 🖖
