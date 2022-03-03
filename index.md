@@ -45,14 +45,13 @@ And if you want to see our [live presentation](https://www.youtube.com/embed/iL4
 <img src="assets/img/project_cyclicist.png?raw=true"/>
 
 ### Context
-Data Analysis Case Study for Google Data Analytics Certification - Cyclistic. Preparing a data analysis for a fictional bike-share company in order to help them attract more riders.
+A data analysis Case Study for the Google Data Analytics Professional Certification. The objective was to prepare a data analysis for a fictional bike-share company located in Chicago, Cyclicist, in order to help them attract more riders.
 
 ### Project Overview
-As a data analyst working in the marketing analyst team, my goal was to understand how casual riders and annual members use Cyclistic bikes differently. From these insights, my team will design a new marketing strategy to convert casual riders into annual members.
+As a data analyst working in the marketing analyst team, my goal was to understand how casual riders and annual members use Cyclistic bikes differently. From these insights, my team had to design a new marketing strategy to convert casual riders into annual members.
 
-Cyclicist is a bike-share company that features more than 5,800 bicycles and 600 docking stations.
+Cyclicist is a bike-share company that features more than 5,800 bicycles and 600 docking stations in Chicago area.
 
 We try to evaluate how do annual members and casual riders use Cyclistic bikes differently:
-
-Customers who purchase single-ride or full-day passes are considered casual riders.
-Customers who purchase annual memberships are Cyclistic members.
+- Customers who purchase single-ride or full-day passes are considered casual riders.
+- Customers who purchase annual memberships are Cyclistic members.
