@@ -19,7 +19,7 @@ Later on, I completed the Google Data Analytics Professional Certificate in whic
 ## _Deep Learning_
 [Github project link](https://github.com/glauret/Sign_language_detection)
 
-**Tools used: Python (Numpy, Panda, OpenCV, Mediapipe, TensorFlow), Google Drive, Streamlit**
+**_Tools used: Python (Numpy, Panda, OpenCV, Mediapipe, TensorFlow), Google Drive, Streamlit_**
 
 <img src="assets/img/Image_2?raw=true"/>
 
@@ -38,7 +38,7 @@ And if you want to see our [live presentation](https://www.youtube.com/embed/iL4
 ## _Data Analytics_
 [Github project link](https://github.com/glauret/project_cyclistic).
 
-**Tools used: R (Tidyverse, Geosphere), Tableau**
+**_Tools used: R (Tidyverse, Geosphere), Tableau_**
 
 ### Context
 Data Analysis Case Study for Google Data Analytics Certification - Cyclistic. Preparing a data analysis for a fictional bike-share company in order to help them attract more riders.
