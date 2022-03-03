@@ -13,7 +13,7 @@ In early 2021, I decided to explore and work in data, so I learned coding in **S
 
 Later on, I completed the Google Data Analytics Professional Certificate and worked on a project using **SQL**, **R** and **Tableau**.
 
-![My resume here](/assets/img/Guillaume_Lauret_Resume.pdf "some discription")
+<embed src="/assets/img/Guillaume_Lauret_Resume.pdf" type="application/pdf">
 
 # My portfolio
 
