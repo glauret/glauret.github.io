@@ -23,13 +23,14 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 
 **Tools used: Python (Numpy, Panda, OpenCV, Mediapipe, TensorFlow), Google Drive, Streamlit**
 
-![Module](/assets/img/Image_2)
+### Context
+![Module](assets/img/Image_2)
 
-With three of my Bootcamp (Le Wagon) teammates build in 2 weeks a sign language module which recognizes and displays on a screen the different letters of the alphabet:
+With three of my Bootcamp (Le Wagon) teammates build in 2 weeks a sign language module which recognizes through a webcam and displays on a screen the different letters of the alphabet:
 - Based on the American Sign Language
 - A Sign Language Translator using computer vision and image segmentation
-- Dataset: more than 8000 pictures of hands position both homemade and from online dataset
-- Type of neural network: Convolutional Neural Network with transfer learning from Resnet50 V2
+- Dataset includes more than 8000 pictures of hands position both homemade and from online datasets
+- We used a Convolutional Neural Network with transfer learning from Resnet50 V2 in order to classify the different letters of the alphabet for a given image of the hand
 
 [Here is the link to our online app](https://share.streamlit.io/glauret/sld)
 
@@ -41,6 +42,18 @@ And if you want to see our [live presentation](https://www.youtube.com/embed/iL4
 
 **Tools used: R (Tidyverse, Geosphere), Tableau**
 
+### Context
+Data Analysis Case Study for Google Data Analytics Certification - Cyclistic. Preparing a data analysis for a fictional bike-share company in order to help them attract more riders.
+
+Project Overview
+As a data analyst working in the marketing analyst team, my goal was to understand how casual riders and annual members use Cyclistic bikes differently. From these insights, my team will design a new marketing strategy to convert casual riders into annual members.
+
+Cyclicist is a bike-share company that features more than 5,800 bicycles and 600 docking stations.
+
+We try to evaluate how do annual members and casual riders use Cyclistic bikes differently:
+
+Customers who purchase single-ride or full-day passes are considered casual riders.
+Customers who purchase annual memberships are Cyclistic members.
 > This is a blockquote following a header.
 >
 > When something is important enough, you do it even if the odds are not in your favor.
