@@ -6,18 +6,22 @@ layout: default
 
 I have 4 years experience in the finance industry - 1.5 years as a Private Debt Analyst in the Structured Finance department for two different investment funds, 2 years as a Corporate Credit Analyst at Société Générale in Chicago, and 6 months as a Corporate Risk Analyst at Natixis in Paris.
 
-In early 2021, I decided to explore and work in data, so I learned coding in SQL and Python on my own. Then I joined an intensive Data Science bootcamp at Le Wagon in Paris, where I developed different skills from Data Analysis with SQL, Pandas, Numpy, to Machine Learning and Deep Learning with Scikit-Learn and Tensorflow/Keras, and Data Engineering with GCP, Heroku, Github. After the bootcamp, in order to strengthen my skills, I completed the Google Data Analytics Certificate which includes a capstone project by using tools like SQL, R and Tableau.
+In early 2021, I decided to explore and work in data, so I learned coding in **SQL** and **Python** on my own. Then I joined an intensive Data Science bootcamp at Le Wagon in Paris, where I developed different skills
+- **Data Analysis** with SQL, Pandas, Numpy
+- **Machine Learning and Deep Learning** with Scikit-Learn and Tensorflow/Keras
+- **Data Engineering** with GCP, Heroku, Github.
 
+Later on, I completed the Google Data Analytics Professional Certificate in which I developped my skills with **R**, **SQL** and **Tableau**.
 
 # My portfolio
 
 ## Sign Language Detection Project 🖖
-## Deep Learning
+## _Deep Learning_
 [Github project link](https://github.com/glauret/Sign_language_detection)
 
 **Tools used: Python (Numpy, Panda, OpenCV, Mediapipe, TensorFlow), Google Drive, Streamlit**
 
-![Module](assets/img/Image_2)
+<img src="assets/img/Image_2?raw=true"/>
 
 With 3 of my teammates from Le Wagon Bootcamp we built in 2 weeks a sign language module which recognizes through a webcam the different letters of the alphabet:
 - Based on the American Sign Language
@@ -31,7 +35,7 @@ With 3 of my teammates from Le Wagon Bootcamp we built in 2 weeks a sign languag
 And if you want to see our [live presentation](https://www.youtube.com/embed/iL4D2hWe05o?start=2905&end=3432)(only in French)
 
 ## Cyclicist Project 🚲
-## Data Analytics
+## _Data Analytics_
 [Github project link](https://github.com/glauret/project_cyclistic).
 
 **Tools used: R (Tidyverse, Geosphere), Tableau**
