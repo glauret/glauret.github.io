@@ -8,9 +8,9 @@ I have 1.5 years of experience in Data Analytics and 4 years experience in the f
 
 Quickly after, I joined  Ankorstore as a Business Data Analyst. Ankorstore is the fastest growing European B2B marketplace reaching unicorn status in only two years. The company's mission is to connect brands with the best independent retailers in Europe. 
 My role involved:
--**Conducting data analysis** to support business decision-making on CX and Logistic topics 
--**Developing and implementing data visualization tools** to monitor the performance of the Fulfillment Center and improve Sales processes 
--**Creating and monitoring new metrics** to better understand brands behaviors on the platform
+* **Conducting data analysis** to support business decision-making on CX and Logistic topics 
+* **Developing and implementing data visualization tools** to monitor the performance of the Fulfillment Center and improve Sales processes 
+* **Creating and monitoring new metrics** to better understand brands behaviors on the platform
 
 I completed the Google Data Analytics Professional Certificate and I'm currently working on the Advanced Certificate.
 
