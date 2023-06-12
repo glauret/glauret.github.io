@@ -4,7 +4,7 @@ layout: default
 
 # About me
 
-I have 1.5 years of experience in Data Analytics and 4 years experience in the finance industry. After coming back from Chicago where I worked as a Corporate Credit Analyst for a French Investment Bank, I attended an intensive Data Bootcamp. 
+I have 1.5 years of experience in Data Analytics and 4 years experience in the finance industry. After coming back from Chicago where I worked as a Corporate Credit Analyst for a French Investment Bank, I attended an intensive Data Bootcamp in Paris and took my first steps in the Data World
 
 Quickly after, I joined  Ankorstore as a Business Data Analyst. Ankorstore is the fastest growing European B2B marketplace reaching unicorn status in only two years. The company's mission is to connect brands with the best independent retailers in Europe. 
 My role involved:
