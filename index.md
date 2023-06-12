@@ -11,7 +11,7 @@ I have 1.5 years of experience in Data Analytics and 4 years experience in the f
 
 I completed the Google Data Analytics Professional Certificate and I'm currently working on the Advanced Certificate.
 
-[My resume available here]([https://drive.google.com/file/d/1umom4fc79bjPD2_fCEb2NA4zVnooG5JO/view?usp=sharing](https://drive.google.com/drive/folders/1M4Uu0XDg04DKEBgxGViT2XNIc55SAYEz)
+[My resume available here](https://drive.google.com/file/d/1FSssg7I-3M8xb7kFZ9PGRMuxTtKpH7D2/view?usp=sharing)
 
 # My portfolio
 
