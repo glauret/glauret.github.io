@@ -4,16 +4,14 @@ layout: default
 
 # About me
 
-I have 4 years experience in the finance industry - 1.5 years as a Private Debt Analyst in the Structured Finance department for two different investment funds, 2 years as a Corporate Credit Analyst at Société Générale in Chicago, and 6 months as a Corporate Risk Analyst at Natixis in Paris.
+I have 1.5 years of experience in Data Analytics and 4 years experience in the finance industry. After coming back from Chicago where I worked as a Corporate Credit Analyst for a French Investment Bank, I attended an intensive Data Bootcamp. Quickly after, I joined  Ankorstore as a Business Data Analyst. Ankorstore is the fastest growing European B2B marketplace reaching unicorn status in only two years. The company's mission is to connect brands with the best independent retailers in Europe. My role involved:
+• Conducting data analysis to support business decision-making on CX and Logistic topics 
+• Developing and implementing data visualization tools to monitor the performance of the Fulfillment Center and improve Sales processes 
+• Creating and monitoring new metrics to better understand brands behaviors on the platform
 
-In early 2021, I decided to explore and work in data, so I learned coding in **SQL** and **Python** on my own. Then I joined an intensive Data Science bootcamp at Le Wagon in Paris, where I developed different skills:
-- **Data Analysis** with SQL, Pandas, Numpy.
-- **Machine Learning and Deep Learning** with Scikit-Learn and Tensorflow/Keras.
-- **Data Engineering** with GCP, Heroku, Github.
+I completed the Google Data Analytics Professional Certificate and I'm currently working on the Advanced Certificate.
 
-Later on, I completed the Google Data Analytics Professional Certificate and worked on a project using **SQL**, **R** and **Tableau**.
-
-[My resume available here](https://drive.google.com/file/d/1umom4fc79bjPD2_fCEb2NA4zVnooG5JO/view?usp=sharing)
+[My resume available here]([https://drive.google.com/file/d/1umom4fc79bjPD2_fCEb2NA4zVnooG5JO/view?usp=sharing](https://drive.google.com/drive/folders/1M4Uu0XDg04DKEBgxGViT2XNIc55SAYEz)
 
 # My portfolio
 
