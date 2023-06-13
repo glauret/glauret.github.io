@@ -35,7 +35,7 @@ With 3 of my teammates from Le Wagon Bootcamp we built in 2 weeks a **sign langu
 
 [Here is the link to our online app](https://share.streamlit.io/glauret/sld)
 
-And if you want to see our [live presentation](https://www.youtube.com/embed/iL4D2hWe05o?start=2905&end=3432) (French)
+And if you want to see our [live presentation](https://www.youtube.com/embed/iL4D2hWe05o?start=2905&end=3432) (Demo starts at 55m11s - FRENCH)
 
 ## Cyclicist Project 🚲
 ## _Data Analytics_
