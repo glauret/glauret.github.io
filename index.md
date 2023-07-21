@@ -4,15 +4,16 @@ layout: default
 
 # About me
 
-I have 1.5 years of experience in Data Analytics and 4 years experience in the finance industry. After coming back from Chicago where I worked as a Corporate Credit Analyst for a French Investment Bank, I attended an intensive Data Bootcamp in Paris and took my first steps in the Data World
+I have a dual background in Data Analytics and Finance. After working as a Corporate Credit Analyst for a French Investment Bank in Chicago for 2 years, I attended an intensive Data Bootcamp in Paris to venture into the Data World.
 
-Quickly after, I joined  Ankorstore as a Business Data Analyst. Ankorstore is the fastest growing European B2B marketplace reaching unicorn status in only two years. The company's mission is to connect brands with the best independent retailers in Europe. 
-My role involved:
+Soon after, I joined Ankorstore as a Business Data Analyst. Ankorstore is a rapidly growing European B2B marketplace that achieved unicorn status in just two years. The company's mission is to connect brands with the best independent retailers in Europe. In my role, I was responsible for:
 * **Conducting data analysis** to support business decision-making on CX and Logistic topics 
 * **Developing and implementing data visualization tools** to monitor the performance of the Fulfillment Center and improve Sales processes 
 * **Creating and monitoring new metrics** to better understand brands behaviors on the platform
 
-I completed the Google Data Analytics Professional Certificate and I'm currently working on the Advanced Certificate.
+Believing in continuous improvement, I also completed the Google Data Analytics Professional Certificate while working. Currently, I am pursuing the Advanced Certificate. 
+
+Now, I am seeking the next stage of my career, aiming to join a fast-growing company in the UK for a hands-on role as a Senior Data Analyst.
 
 [My resume available here](https://drive.google.com/file/d/1FSssg7I-3M8xb7kFZ9PGRMuxTtKpH7D2/view?usp=sharing)
 
